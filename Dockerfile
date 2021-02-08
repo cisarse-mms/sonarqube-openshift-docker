@@ -1,7 +1,7 @@
 FROM jboss/base-jdk:11
 
-MAINTAINER Erik Jacobs <erikmjacobs@gmail.com>
-MAINTAINER Siamak Sadeghianfar <siamaksade@gmail.com>
+MAINTAINER Sergiu Cisar <sergiu.cisar@gmail.com>
+
 
 ENV SONAR_VERSION=8.6.1.40680 \
     SONARQUBE_HOME=/opt/sonarqube \
